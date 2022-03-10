@@ -36,26 +36,7 @@ get extra feturs use maalutty v3😍⏬
   
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AMRUSIR/AMRU_SER-V2) 
- 
-### The Hard Method
-```js
-GET QR
-$ apt install git
-$ apt install nodejs --fix-missing
-$ git clone https://github.com/nijin-husni/MAALUTTY_V2
-$ cd MAALUTTY_V2
-$ npm install @adiwajshing/baileys
-$ npm install chalk
-$ node maalutty.js
-```
-      
-```js
-SETUP
-$ git clone https://github.com/nijin-husni/MAALUTTY_V2
-$ cd MAALUTTY_V2
-$ npm i
-$ node maalutty.js
-```
+
 
 ----
 
