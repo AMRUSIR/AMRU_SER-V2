@@ -75,14 +75,6 @@ Click WA logo to Join public bot Group👇
 ### SOON.....!
 
 
-### ⚠️ Warning! 
-```
-Due to Userbot; Your WhatsApp account may be banned.
-This is an open source project, you are responsible for everything you do. 
-Absolutely, Asena executives do not accept responsibility.
-By establishing the Asena, you are deemed to have accepted these responsibilities.
-```
-
 ## Developer
   <div align="center">
     
@@ -97,5 +89,3 @@ Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |
 ## License
 This project is protected by `GNU General Public Licence v3.0` license.
 
-### Disclaimer
-`WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
