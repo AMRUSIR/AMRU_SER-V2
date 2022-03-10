@@ -3,12 +3,12 @@
     "description": "AMRU_SER-V2 is the Modified Version of WhatsAsena, Made By @nijin-husni with Baileys.",
     "logo": "https://i.ibb.co/N6b6cv3/AMRU_SER-V2.png",
     "keywords": ["whatsapp", "userbot", "julie", "WhatsAsena", "mwol", "bot", "ai"],
-    "repository": "https://github.com/nijin-husni/AMRU_SER-V2",
-    "website":   "https://github.com/nijin-husni/AMRU_SER-V2",
-    "success_url": "https://github.com/nijin-husni/AMRU_SER-V2",
+    "repository": "https://github.com/AMRUSIR/AMRU_SER-V2",
+    "website":   "https://github.com/AMRUSIR/AMRU_SER-V2",
+    "success_url": "https://github.com/AMRUSIR/AMRU_SER-V2",
     "stack": "container",
     "env": {
-        "AMRU_SER-V2_SESSION": {
+        "AMRU_SESSION": {
             "description": "Type here yours AMRU_SER-V2 Session.",
             "required": true
         },
