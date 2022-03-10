@@ -137,7 +137,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('✅ ❤️MAALUTTY💙 working aan😎!')
+            chalk.green.bold('✅ ⚡️AMRU_SER-V2⚡️working aan😎!')
         );
         await new Promise(r => setTimeout(r, 1100));
 
@@ -162,7 +162,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     })
                 }
                 else {
-                    await conn.sendMessage(conn.user.jid, '*❤️MAALUTTY💙 BOT ELLAM SETTAYI😇*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*⚡️AMRU_SER-V2⚡️BOT  SETTAYI😇*', MessageType.text);
                 }
             }
             else {
@@ -184,7 +184,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     })
                 }
                 else {
-                    await conn.sendMessage(conn.user.jid, '*❤️MAALUTTY💙 BOT ELLAM SETTAYI😇*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*⚡️AMRU_SER-V2⚡️BOT  SETTAYI😇*', MessageType.text);
                 }
 
             }
@@ -233,7 +233,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                 }
                 else {
 
-                    await conn.sendMessage(conn.user.jid, '*❤️MAALUTTY💙 BOT ELLAM SETTAYI😇*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*⚡️AMRU_SER-V2⚡️BOT  SETTAYI😇*', MessageType.text);
                 }
             }
         }
