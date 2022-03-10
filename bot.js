@@ -391,8 +391,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~❤️MAALUTTY💙~*' +
-                                    '\n\n*🧞‍♂️ ' + error + '*\n\n```Report🥺 errors\njoin with \n https://chat.whatsapp.com/KJWUNpT7lBzDuPGnlV69Vp``` ' 
+                                await conn.sendMessage(conn.user.jid, '*~❤️ AMRUSER V2💙~*' +
+                                    '\n\n*🧞‍♂️ ' + error + '*\n\n```Report🥺 errors\njoin with \n https://chat.whatsapp.com/DnHJu25Ccss7zn72nPhL8z``` ' 
                                     , MessageType.text);
                             }
                         }
