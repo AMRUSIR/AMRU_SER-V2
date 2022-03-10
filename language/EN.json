@@ -29,7 +29,7 @@
         },
         "admin": {
             "BAN_DESC": "Ban someone in the group. Reply to message or tag a person to use command.",
-            "IM_NOT_ADMIN": "*Maaluttye ivar aarum admin aakittilla sed aaki🥺!*",
+            "IM_NOT_ADMIN": "* enne ivar aarum admin aakittilla sed aaki🥺!*",
             "BANNED": "Appol pinne engana ok bye da monu😎!",
             "GIVE_ME_USER": "*nee oru usrine thaa😊!*",
             "ADD_DESC": "Adds someone to the group.",
@@ -65,8 +65,8 @@
             "REASON": "Reason",
             "LAST_SEEN": "Last Seen",
             "IM_NOT_AFK": "```I am not AFK anymore!```",
-            "AFK_TEXT": "```Bip bop! This is a bot. My owner is not here at the moment.```",
-            "AFK_TEXT_NOMD": "Bip bop! This is a bot.",
+            "AFK_TEXT": "```Bip bop! This is a  . My owner is not here at the moment.```",
+            "AFK_TEXT_NOMD": "Bip bop! This is a  .",
             "HOUR": "hour",
             "MINUTE": "minute",
             "SECOND": "second",
@@ -82,9 +82,9 @@
             "MUST_TEXT": "```Please reply to any message```"
         },
         "heroku": {
-            "RESTART_DESC": "Restart Maalutty",
+            "RESTART_DESC": "Restart  ",
             "RESTART_MSG": "```Restarting...```",
-            "SHUTDOWN_DESC": "Shutdown Maalutty",
+            "SHUTDOWN_DESC": "Shutdown  ",
             "SHUTDOWN_MSG": "```Shutting down ⛔```",
             "DYNO_DESC": "Check heroku dyno usage",
             "DYNO_TOTAL": "```Total Quota```",
@@ -102,7 +102,7 @@
             "NOT_FOUND": "```no results found for this key```",
             "SUCC": "*Successfully Setted Up ✅* \n*Please wait a little while.*",
             "SUCC_AF": "*To restore, use* ```default```",
-            "DEGİS_NONE": "```Please Enter Any Module Name!``` \n\n*.degis afk*\n*.degis alive* << **Variables** >> \n_{pp}: You only need to use it once. Adds your profile photo to the message._ \n_{info}: Shows your status._ \n_{version}: Shows the version of the bot._ \n_{plugin}: Shows the plugin channel._\n*.degis ban*\n*.degis add*\n*.degis mute*\n*.degis unmute*\n*.degis promote*\n*.degis demote*\n*.degis welcome* \n*.degis goodbye* \n*.degis kickme*\n*.degis block*\n*.degis unblock*",
+            "DEGİS_NONE": "```Please Enter Any Module Name!``` \n\n*.degis afk*\n*.degis alive* << **Variables** >> \n_{pp}: You only need to use it once. Adds your profile photo to the message._ \n_{info}: Shows your status._ \n_{version}: Shows the version of the  ._ \n_{plugin}: Shows the plugin channel._\n*.degis ban*\n*.degis add*\n*.degis mute*\n*.degis unmute*\n*.degis promote*\n*.degis demote*\n*.degis welcome* \n*.degis goodbye* \n*.degis kickme*\n*.degis block*\n*.degis unblock*",
             "WR": "*Please use the modules that exists!*",
             "DEGİS_DESC": "Changes the text of modules like alive, afk etc.."       
         },
@@ -204,11 +204,11 @@
             "URL": "LINK",
             "THUMB": "THUMB",
             "RATING": "RATING",
-            "UPLOADING_SONG": "* maalutty song Upload cheyyatte 😎*",
+            "UPLOADING_SONG": "*   song Upload cheyyatte 😎*",
             "VIDEO_DESC": "Downloads video from YouTube.",
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
-            "DOWNLOADING_VIDEO": "*maalutty vide youtubnn Download cheyyatte😎*",
-            "UPLOADING_VIDEO": "* maalutty Upload cheyyatte 😎*",
+            "DOWNLOADING_VIDEO": "*  vide youtubnn Download cheyyatte😎*",
+            "UPLOADING_VIDEO": "*   Upload cheyyatte 😎*",
             "LOADING": "*Downloading video*",
             "YT_DESC": "It searchs on YouTube.",
             "NEED_WORDS": "```Please write a few words!```",
@@ -222,15 +222,15 @@
         "sticker": {
             "STICKER_DESC": "It converts your replied photo or video to sticker.",
             "NEED_REPLY": "*oru photokko videokko reply thaa😂!*",
-            "DOWNLOADING": "```Maalutty photo sticker aakitt ippo sheriyakki tharaam😎```"
+            "DOWNLOADING": "```W8 AKU IPPO SET AKAM```"
         },
         "system_stats": {
-            "ALIVE_DESC": "Does bot work?",
+            "ALIVE_DESC": "Does   work?",
             "SYSD_DESC": "Shows the system properties."
         },
         "tagall": {
             "TAGALL_DESC": "Tags everyone in the group.",
-            "ADMİN": "*Maaluttye aarum admin aakeettilla🥺!*",
+            "ADMİN": "* e aarum admin aakeettilla🥺!*",
             "SCAN": "Checks whether the entered number is registered on WhatApp.",
             "NO": "*Please Enter Any Phone Number!*\n*Example:* ```.scan 90xxxx```",
             "SUC": "*Numbered Person Uses WhatsApp! ✅*",
@@ -244,14 +244,14 @@
         },
         "updater": {
             "UPDATER_DESC": "Checks the update.",
-            "UPDATE": "*❤️MAALUTTY💙 already update aanallo bro😎!*",
-            "NEW_UPDATE": "*Maaluttykk update cheyyan und😊*\n .update now enn type cheyy😆 \n\n support grpil paranjo: *https://chat.whatsapp.com/FO3JyZPm1ma3vHyEQjaToY* ```",
+            "UPDATE": "*AMRU_SER-V2 already update aanallo bro😎!*",
+            "NEW_UPDATE": "* kk update cheyyan und😊*\n .update now enn type cheyy😆 \n\n support grpil paranjo: *https://chat.whatsapp.com/FO3JyZPm1ma3vHyEQjaToY* ```",
             "UPDATE_NOW_DESC": "It makes updates.",
-            "UPDATING": "Maalutty update aakunnu oru5 minute w8 cheyy 😊",
+            "UPDATING": "  update aakunnu oru5 minute w8 cheyy 😊",
             "INVALID_HEROKU": "*❌ Your Heroku app name or api key wrong!*",
-            "UPDATED": "*✅  Maalutty update aayi*",
-            "UPDATED_LOCAL": "*Maalutty update aayi 😎!*",
-            "AFTER_UPDATE": "*Maalutty Restart aakatte !*",
+            "UPDATED": "*✅    update aayi*",
+            "UPDATED_LOCAL": "*  update aayi 😎!*",
+            "AFTER_UPDATE": "*  Restart aakatte !*",
             "IN_AF": "*Please check* ```HEROKU_APP_NAME``` *and* ```app name``` *They must be same.*\n*If these two values ​​are the same, please restore* ```HEROKU_API_KEY```\n\n_To access these settings, use Heroku >> App >> Settings >> Reavel Config Vars_\n_To renew your API key, follow these steps, Heroku >> Account >> API Key then replace old api key in config vars._"
         },
         "whois": {
@@ -285,8 +285,8 @@
             "APK_MOD": "It sends some special mod apks",
             "CARBON_DESC": "It sends carbon picture",
             "TEMP": "Temperature",
-            "BOT_DESC": "Chat with Pinky.\n Use .molu <message>",
-            "BOT": ":",
+            " _DESC": "Chat with Pinky.\n Use .molu <message>",
+            " ": ":",
             "DEVICE": "It shows the details of device",
             "DESC": "Description",
             "HUMI": "Humidity",
@@ -310,15 +310,15 @@
         "conventer": {
             "MP4TOAUDİO_DESC": "Converts video to sound.",
             "MP4TOAUDİO_NEEDREPLY": "*Da oru videokk reply tha😹!*",
-            "MP4TOAUDİO": "```maalutty video convert cheyyatte😎..```",
-            "ANİM_STİCK": "maalutty sticker video aakkatte😎.",
-            "ANİMATE": "```maalutty sticker video aakkatte😎..```",
-            "STİCKER_DESC": "maalutty photo sticker aakatte😎.",
+            "MP4TOAUDİO": "```  video convert cheyyatte😎..```",
+            "ANİM_STİCK": " sticker video aakkatte😎.",
+            "ANİMATE": "``` sticker video aakkatte😎..```",
+            "STİCKER_DESC": " photo sticker aakatte😎.",
             "STİCKER_NEEDREPLY": "*Da oru stickerin reply tha😹!*",
-            "STİCKER": "```maalutty sticker photo aakkatte😎..```",
+            "STİCKER": "``` sticker photo aakkatte😎..```",
             "XMEDİA_DESC": "It is a plugin with more than 25 media tools.",
-            "T_FALSE": "```❌ Incorrect Blend Effect Entered!```\n```🔎 Existing Commands:```\n\n*$dodge* - Applies a pink color filter to the video.\n*$multiply* - Applies a green color filter to the video.\n*$grainmerge* - Increases the contrast of the video.\n*$and* - Applies black lightning effect according to the speed of the video.\n*$or* - Applies a white lightning effect according to the speed of the video.\n*$burn* - Applies green contrast to video.\n*$difference* - Shows the differences by applying green relief to the video.\n*$grainextract* - Shows the differences by applying gray relief to the video.\n*$divide* - Demonstrates the differences by applying a pink relief to the video.\n*$xor* - Applies both green relief and lightning effect to video.\n*$hardmix* - Mixes the colors of the video into a yellow and red tone.\n*$negation* - Turns the dynamics of the video to pink.",
-            "T_NOT": "```💭 You Need To Enter Any Blend Effects!\n```🔎 Existing Commands:```\n\n*$dodge* - Applies a pink color filter to the video.\n*$multiply* - Applies a green color filter to the video.\n*$grainmerge* - Increases the contrast of the video.\n*$and* - Applies black lightning effect according to the speed of the video.\n*$or* - Applies a white lightning effect according to the speed of the video.\n*$burn* - Applies green contrast to video.\n*$difference* - Shows the differences by applying green relief to the video.\n*$grainextract* - Shows the differences by applying gray relief to the video.\n*$divide* - Demonstrates the differences by applying a pink relief to the video.\n*$xor* - Applies both green relief and lightning effect to video.\n*$hardmix* - Mixes the colors of the video into a yellow and red tone.\n*$negation* - Turns the dynamics of the video to pink.",
+            "T_FALSE": "```❌ Incorrect Blend Effect Entered!```\n```🔎 Existing Commands:```\n\n*$dodge* - Applies a pink color filter to the video.\n*$multiply* - Applies a green color filter to the video.\n*$grainmerge* - Increases the contrast of the video.\n*$and* - Applies black lightning effect according to the speed of the video.\n*$or* - Applies a white lightning effect according to the speed of the video.\n*$burn* - Applies green contrast to video.\n*$difference* - Shows the differences by applying green relief to the video.\n*$grainextract* - Shows the differences by applying gray relief to the video.\n*$divide* - Demonstrates the differences by applying a pink relief to the video.\n*$xor* - Applies  h green relief and lightning effect to video.\n*$hardmix* - Mixes the colors of the video into a yellow and red tone.\n*$negation* - Turns the dynamics of the video to pink.",
+            "T_NOT": "```💭 You Need To Enter Any Blend Effects!\n```🔎 Existing Commands:```\n\n*$dodge* - Applies a pink color filter to the video.\n*$multiply* - Applies a green color filter to the video.\n*$grainmerge* - Increases the contrast of the video.\n*$and* - Applies black lightning effect according to the speed of the video.\n*$or* - Applies a white lightning effect according to the speed of the video.\n*$burn* - Applies green contrast to video.\n*$difference* - Shows the differences by applying green relief to the video.\n*$grainextract* - Shows the differences by applying gray relief to the video.\n*$divide* - Demonstrates the differences by applying a pink relief to the video.\n*$xor* - Applies  h green relief and lightning effect to video.\n*$hardmix* - Mixes the colors of the video into a yellow and red tone.\n*$negation* - Turns the dynamics of the video to pink.",
             "T_DESC": "Applies the selected TBlend effect to videos." 
         },
         "multiuse": {
@@ -443,7 +443,7 @@
             "URL": "*You must enter the image URL!*\n*Example:* https://i.hizliresim.com/nrg50b.jpg"
         },
         "ttp": {
-            "TTP_DESC": "maalutty text ttp aakatte😎.",
+            "TTP_DESC": " text ttp aakatte😎.",
             "ATTP_DESC": "Adds rainbow effect to the text as a sticker.",
             "NEED_WORD": "*Da monuse oru word thaada😂*",
             "ANIME_DESC": "It writes the text inside the banner the anime girl is holding",
