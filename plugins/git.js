@@ -22,24 +22,24 @@ Maalutty.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (mess
 *bot making video* : https://youtu.be/jF8wF1KdyOw
 
 
-*owner number husni* :https://wa.me/917025868709.
+*owner number Amru* :https://wa.me/917025631103.
             
 
-*owner number Nijin* :https://wa.me/919605385305.
+*owner number Windro* :https://wa.me/918606413490.
 
 
-*owner id instagram* :https://instagram.com/_husni_ser_.
+*owner id instagram* :https://instagram.com/ff.wvfx.
 
 
-*github* : https://github.com/nijin-husni/Maalutty.
+*github* : https://github.com/AMRUSIR/AMRU_SER-V2.
 
 
-*audio commands* :https://github.com/nijin-husni/uploads/tree/main/bgm.
+*audio commands* :https://github.com/AMRUSIR/uploads/tree/main/bgm.
 
-*sticker commands* :https://github.com/nijin-husni/uploads/tree/main/stickers.
+*sticker commands* :https://github.com/AMRUSIR/uploads/tree/main/stickers.
 ■□■□■□■□■□■□■□■□■□■□
-❤️Maalutty💙
-▣▣ ~NIJIN~ AND ~HUSNI~ ▣▣
+❤️Amru Ser V2💙
+▣▣ ~AMRU~ AND ~WINDRO~ ▣▣
 
 `}) 
 
