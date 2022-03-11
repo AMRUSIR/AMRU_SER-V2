@@ -30,7 +30,7 @@ else if (Config.WORKTYPE == 'public') {
         }
 
         if (Config.OWNER == 'default') {
-            await message.client.sendMessage(message.jid,'* AMRU SER V2 created by Amru and Windro*' , MessageType.text);
+            await message.client.sendMessage(message.jid,'*AMRU SER V2 created by Amru and Windro*' , MessageType.text);
         }
         else {
             await message.client.sendMessage(message.jid,Config.OWNER + '\n AMRU SER V2 created by Amru and Windro', MessageType.text);
