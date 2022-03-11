@@ -12,17 +12,14 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/AMRUSIR">Amru Ser</a> to make it public
+Project created by Amruser and Windroser
     <br>
        | © |
         Reserved |
     <br> 
 </p>
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/AMRUSIR/AMRU_SER-V2&title=AMRU_SER-V2%20Views)
 
-[![Maalutty Card](https://github-readme-stats.vercel.app/api/pin/?username=AMRUSIR&repo=AMRU_SER-V2&theme=nightowl)](https://github.com/AMRUSIR/AMRU_SER-V2)
-  </div>
     
 
 ## Setup
