@@ -83,7 +83,7 @@
         },
         "BGM_DURATION":{
             "description":"Set your bots BGM duration"
-            "required": false
+            "required": false,
             "value": "7280542"
         },
         "HEROKU": {
