@@ -81,13 +81,13 @@
             "required": false,
             "value": "MADE BY ⚡️AMRU_SER-V2⚡️"
         },
-        "BGM_DURATION":{
-            "description":"Set your bots BGM duration"
+        "BGM_DURATION": {
+            "description":"Set your bots BGM duration",
             "required": false,
             "value": "7280542"
         },
         "HEROKU": {
-            "description": "If it is running in Heroku, type true.",
+            "description": "If it is running in Heroku, type true."
             "required": true,
             "value": "true"
         },
