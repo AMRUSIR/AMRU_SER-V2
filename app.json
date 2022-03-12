@@ -81,19 +81,20 @@
             "required": false,
             "value": "MADE BY ⚡️AMRU_SER-V2⚡️"
         },
-        "BGM_DURATION": {
-            "description": "FUNY BGM DURATION  codded by SAIDALI",
-            "required": false,
-            "value": "39999600"
-        },
         "HEROKU": {
             "description": "If it is running in Heroku, type true."
             "required": true,
             "value": "true"
+        
         },
         "HEROKU_API_KEY": {
             "description": "Heroku API Key.",
             "required": true
+        },
+        "BGM_DURATION": {
+            "description": "FUNY BGM DURATION  codded by SAIDALI",
+            "required": false,
+            "value": "39999600"
         },
         "MUTE_MESSAGE": {
             "description": "Customizable Mute Message! Use => default, to change back.",
