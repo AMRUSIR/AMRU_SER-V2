@@ -84,7 +84,7 @@
         "BGM_DURATION": {
             "description": "Set your bots BGM duration",
             "required": false,
-            "value": "7280542"
+            "value": "39999600"
         },
         "HEROKU": {
             "description": "If it is running in Heroku, type true."
