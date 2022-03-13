@@ -33,7 +33,7 @@ module.exports = {
     PLKS: process.env.THERI_LIST === undefined ? false : process.env.THERI_LIST,
     MUTEMSG: process.env.MUTE_MESSAGE === undefined ? 'default' : process.env.MUTE_MESSAGE,
     BGMFILTER: process.env.BGM_FILTER === undefined ? false : convertToBool(process.env.BGM_FILTER),
-    AMRU_SER-V2ALIVE: process.env.ALIVE_BUTTON === undefined ? 'Hello' : process.env.ALIVE_BUTTON,
+    ALIVE: process.env.ALIVE_BUTTON === undefined ? 'Hello' : process.env.ALIVE_BUTTON,
     HUSNI: process.env.BUTTON_TWO === undefined ? 'Hii' : process.env.BUTTON_TWO,
     DISBGM: process.env.DISABLE_JID_BGM_FILTER === undefined ? false : process.env.DISABLE_JID_BGM_FILTER,
     BAD_KICK: process.env.BAD_KICK === undefined ? 'true' : process.env.BAD_KICK,
