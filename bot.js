@@ -240,7 +240,53 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         else {
             return console.log('Wrong WORK_TYPE key! Please use “private” or “public”')
         }
-    });
+    });//thanx Jackz
+    setInterval(async () => { 
+        var getGMTh = new Date().getHours()
+        var getGMTm = new Date().getMinutes()
+        var ansk = 'https://raw.githubusercontent.com/Jackz-ser/Broken-Angelina/master/daily'
+         
+        while (getGMTh == 9 && getGMTm == 01) {
+            const {data} = await axios(ansk)
+            const { sken, skml } = data
+               //Thanks to Jackz         
+            var announce = ''
+            if (config.LANG == 'EN') announce = sken
+            if (config.LANG == 'ML') announce = skml
+            
+            return await conn.sendMessage(conn.user.jid, '*[ DAILY ANNOUNCEMENTS ]*\n\n' + announce, MessageType.text);
+        }
+		while (getGMTh == 13 && getGMTm == 01) {
+            const {data} = await axios(ansk)
+            const { sken, skml } = data
+                        
+            var announce = ''
+            if (config.LANG == 'EN') announce = sken
+            if (config.LANG == 'ML') announce = skml
+            
+            return await conn.sendMessage(conn.user.jid, '*[ DAILY ANNOUNCEMENTS ]*\n\n' + announce, MessageType.text);
+        }
+		while (getGMTh == 17 && getGMTm == 01) {
+            const {data} = await axios(ansk)
+            const { sken, skml } = data
+                  
+            var announce = ''
+            if (config.LANG == 'EN') announce = sken
+            if (config.LANG == 'ML') announce = skml
+            
+            return await conn.sendMessage(conn.user.jid, '*[ DAILY ANNOUNCEMENTS ]*\n\n' + announce, MessageType.text);
+        } 
+		while (getGMTh == 21 && getGMTm == 01) {
+            const {data} = await axios(ansk)
+            const { sken, skml } = data
+                      
+            var announce = ''
+            if (config.LANG == 'EN') announce = sken
+            if (config.LANG == 'ML') announce = skml
+            
+            return await conn.sendMessage(conn.user.jid, '*[ DAILY ANNOUNCEMENTS ]*\n\n' + announce, MessageType.text);
+        }
+    }, 50000);//Thanks to Jackz
 
     conn.on('chat-update', async m => {
         if (!m.hasNewMessage) return;
