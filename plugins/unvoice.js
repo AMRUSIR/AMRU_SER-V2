@@ -18,7 +18,7 @@ const Lang = Language.getString('unvoice'); // Language support
 if (Config.WORKTYPE == 'private') {
 
   Julie.addCommand({pattern: 'forward ?(.*)', fromMe: true, desc: Lang.UV_DESC}, (async (message, match) => {    
-    if (message.reply_message === false);
+    if (message.reply_message === false) return await message.sendMessage("*Reply to any audio or voice note to forward!*");
     var location = await message.client.downloadAndSaveMediaMessage({
         key: {
             remoteJid: message.reply_message.jid,
@@ -26,12 +26,12 @@ if (Config.WORKTYPE == 'private') {
         },
         message: message.reply_message.data.quotedMessage
     });
-let id = match[1];
+let jid = match[1]
     ffmpeg(location)
         .format('mp3')
         .save('output.mp3')
         .on('end', async () => {
-            await message.client.sendMessage(id, fs.readFileSync('output.mp3'), MessageType.audio, {mimetype: Mimetype.mp4Audio, ptt: true});
+            await message.client.sendMessage(jid, fs.readFileSync('output.mp3'), MessageType.audio, {mimetype: Mimetype.mp4Audio, ptt: true});
 });}));
 
 Julie.addCommand({pattern: 'unvoice', fromMe: true, desc: Lang.UV_DESC}, (async (message, match) => {    
@@ -195,6 +195,3 @@ Julie.addCommand({pattern: 'unimage', fromMe: true, dontAddCommandList: true}, (
     return await message.client.deleteMessage(message.jid, {id: downloading.key.id, remoteJid: message.jid, fromMe: true})
  }));
 }
-
-
-
